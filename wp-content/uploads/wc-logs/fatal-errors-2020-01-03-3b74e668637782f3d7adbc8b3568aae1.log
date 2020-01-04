@@ -1,0 +1,116 @@
+2020-01-03T14:17:26+00:00 CRITICAL Uncaught Error: Call to a member function abspath() on null in /home/tijmacom/public_html/goods/wp-content/plugins/tutor/includes/tutor-general-functions.php:531
+Stack trace:
+#0 /home/tijmacom/public_html/goods/wp-content/plugins/tutor/classes/Tools.php(58): tutor_maintenance_mode()
+#1 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(288): TUTOR\Tools->tutor_option_save_after('')
+#2 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 /home/tijmacom/public_html/goods/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/tijmacom/public_html/goods/wp-content/plugins/tutor/classes/Options.php(59): do_action('tutor_option_sa...')
+#5 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(288): Tutor\Options->tutor_option_save('')
+#6 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#7 /home/tijmacom/public_html/goods/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /ho in /home/tijmacom/public_html/goods/wp-content/plugins/tutor/includes/tutor-general-functions.php on line 531
+
+2020-01-03T14:17:39+00:00 CRITICAL Uncaught Error: Call to a member function abspath() on null in /home/tijmacom/public_html/goods/wp-content/plugins/tutor/includes/tutor-general-functions.php:531
+Stack trace:
+#0 /home/tijmacom/public_html/goods/wp-content/plugins/tutor/classes/Tools.php(58): tutor_maintenance_mode()
+#1 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(288): TUTOR\Tools->tutor_option_save_after('')
+#2 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 /home/tijmacom/public_html/goods/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/tijmacom/public_html/goods/wp-content/plugins/tutor/classes/Options.php(59): do_action('tutor_option_sa...')
+#5 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(288): Tutor\Options->tutor_option_save('')
+#6 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#7 /home/tijmacom/public_html/goods/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /ho in /home/tijmacom/public_html/goods/wp-content/plugins/tutor/includes/tutor-general-functions.php on line 531
+
+2020-01-03T14:17:55+00:00 CRITICAL Uncaught Error: Call to a member function abspath() on null in /home/tijmacom/public_html/goods/wp-content/plugins/tutor/includes/tutor-general-functions.php:531
+Stack trace:
+#0 /home/tijmacom/public_html/goods/wp-content/plugins/tutor/classes/Tools.php(58): tutor_maintenance_mode()
+#1 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(288): TUTOR\Tools->tutor_option_save_after('')
+#2 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 /home/tijmacom/public_html/goods/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/tijmacom/public_html/goods/wp-content/plugins/tutor/classes/Options.php(59): do_action('tutor_option_sa...')
+#5 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(288): Tutor\Options->tutor_option_save('')
+#6 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#7 /home/tijmacom/public_html/goods/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /ho in /home/tijmacom/public_html/goods/wp-content/plugins/tutor/includes/tutor-general-functions.php on line 531
+
+2020-01-03T14:18:18+00:00 CRITICAL Uncaught Error: Call to a member function abspath() on null in /home/tijmacom/public_html/goods/wp-content/plugins/tutor/includes/tutor-general-functions.php:531
+Stack trace:
+#0 /home/tijmacom/public_html/goods/wp-content/plugins/tutor/classes/Tools.php(58): tutor_maintenance_mode()
+#1 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(288): TUTOR\Tools->tutor_option_save_after('')
+#2 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 /home/tijmacom/public_html/goods/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/tijmacom/public_html/goods/wp-content/plugins/tutor/classes/Options.php(59): do_action('tutor_option_sa...')
+#5 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(288): Tutor\Options->tutor_option_save('')
+#6 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#7 /home/tijmacom/public_html/goods/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /ho in /home/tijmacom/public_html/goods/wp-content/plugins/tutor/includes/tutor-general-functions.php on line 531
+
+2020-01-03T14:18:36+00:00 CRITICAL Uncaught Error: Call to a member function abspath() on null in /home/tijmacom/public_html/goods/wp-content/plugins/tutor/includes/tutor-general-functions.php:531
+Stack trace:
+#0 /home/tijmacom/public_html/goods/wp-content/plugins/tutor/classes/Tools.php(58): tutor_maintenance_mode()
+#1 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(288): TUTOR\Tools->tutor_option_save_after('')
+#2 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 /home/tijmacom/public_html/goods/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/tijmacom/public_html/goods/wp-content/plugins/tutor/classes/Options.php(59): do_action('tutor_option_sa...')
+#5 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(288): Tutor\Options->tutor_option_save('')
+#6 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#7 /home/tijmacom/public_html/goods/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /ho in /home/tijmacom/public_html/goods/wp-content/plugins/tutor/includes/tutor-general-functions.php on line 531
+
+2020-01-03T14:19:06+00:00 CRITICAL Uncaught Error: Call to a member function abspath() on null in /home/tijmacom/public_html/goods/wp-content/plugins/tutor/includes/tutor-general-functions.php:531
+Stack trace:
+#0 /home/tijmacom/public_html/goods/wp-content/plugins/tutor/classes/Tools.php(58): tutor_maintenance_mode()
+#1 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(288): TUTOR\Tools->tutor_option_save_after('')
+#2 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 /home/tijmacom/public_html/goods/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/tijmacom/public_html/goods/wp-content/plugins/tutor/classes/Options.php(59): do_action('tutor_option_sa...')
+#5 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(288): Tutor\Options->tutor_option_save('')
+#6 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#7 /home/tijmacom/public_html/goods/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /ho in /home/tijmacom/public_html/goods/wp-content/plugins/tutor/includes/tutor-general-functions.php on line 531
+
+2020-01-03T14:42:15+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/tijmacom/public_html/goods/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:77
+Stack trace:
+#0 /home/tijmacom/public_html/goods/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php(120): storefront_cart_link()
+#1 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(288): storefront_header_cart('')
+#2 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /home/tijmacom/public_html/goods/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/tijmacom/public_html/goods/wp-content/themes/storefront/header.php(46): do_action('storefront_head...')
+#5 /home/tijmacom/public_html/goods/wp-includes/template.php(722): require_once('/home/tijmacom/...')
+#6 /home/tijmacom/public_html/goods/wp-includes/template.php(671): load_template('/home/tijmacom/...', true)
+#7 /home/tijmacom/public_html/goo in /home/tijmacom/public_html/goods/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 77
+
+2020-01-03T16:24:33+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/tijmacom/public_html/goods/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:77
+Stack trace:
+#0 /home/tijmacom/public_html/goods/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php(120): storefront_cart_link()
+#1 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(288): storefront_header_cart('')
+#2 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /home/tijmacom/public_html/goods/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/tijmacom/public_html/goods/wp-content/themes/storefront/header.php(46): do_action('storefront_head...')
+#5 /home/tijmacom/public_html/goods/wp-includes/template.php(722): require_once('/home/tijmacom/...')
+#6 /home/tijmacom/public_html/goods/wp-includes/template.php(671): load_template('/home/tijmacom/...', true)
+#7 /home/tijmacom/public_html/goo in /home/tijmacom/public_html/goods/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 77
+
+2020-01-03T16:24:51+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/tijmacom/public_html/goods/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:77
+Stack trace:
+#0 /home/tijmacom/public_html/goods/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php(120): storefront_cart_link()
+#1 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(288): storefront_header_cart('')
+#2 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /home/tijmacom/public_html/goods/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/tijmacom/public_html/goods/wp-content/themes/storefront/header.php(46): do_action('storefront_head...')
+#5 /home/tijmacom/public_html/goods/wp-includes/template.php(722): require_once('/home/tijmacom/...')
+#6 /home/tijmacom/public_html/goods/wp-includes/template.php(671): load_template('/home/tijmacom/...', true)
+#7 /home/tijmacom/public_html/goo in /home/tijmacom/public_html/goods/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 77
+
+2020-01-03T16:25:12+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/tijmacom/public_html/goods/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php:77
+Stack trace:
+#0 /home/tijmacom/public_html/goods/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php(120): storefront_cart_link()
+#1 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(288): storefront_header_cart('')
+#2 /home/tijmacom/public_html/goods/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /home/tijmacom/public_html/goods/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/tijmacom/public_html/goods/wp-content/themes/storefront/header.php(46): do_action('storefront_head...')
+#5 /home/tijmacom/public_html/goods/wp-includes/template.php(722): require_once('/home/tijmacom/...')
+#6 /home/tijmacom/public_html/goods/wp-includes/template.php(671): load_template('/home/tijmacom/...', true)
+#7 /home/tijmacom/public_html/goo in /home/tijmacom/public_html/goods/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php on line 77
+
